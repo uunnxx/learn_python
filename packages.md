@@ -1,0 +1,1 @@
+- [Simple Smart Pipe](https://pypi.org/project/sspipe/)
